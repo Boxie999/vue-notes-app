@@ -53,7 +53,7 @@ const addNote = () => {
     <div class="container">
      <header>
       <div class="notes-btn">
-        <h1>Short Notes</h1>
+        <h1>My Notes</h1>
       <button @click="showModal = true">+</button>
       </div>
       
